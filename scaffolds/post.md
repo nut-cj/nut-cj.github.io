@@ -1,5 +1,8 @@
 ---
 title: {{ title }}
 date: {{ date }}
-tags:
+notshow: false
+copyright: true
+categories: 
+tags: 
 ---
