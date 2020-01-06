@@ -96,7 +96,7 @@ theme: next
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: 'git'
-  repo: https://github.com/nut-cj/nut-cj.git
+  repo: https://github.com/nut-cj/nut-cj.github.io
   branch: master
 
 search:
