@@ -8,6 +8,8 @@ tags:
 - vlookup
 ---
 
+# 计算机二级(office)之 vlookup
+
 ## vlookup是什么？
 
 VLOOKUP函数是Excel中的一个纵向查找函数，它与LOOKUP函数和HLOOKUP函数属于一类函数。
@@ -39,5 +41,5 @@ vlookup 在工作中都有广泛应用，例如可以用来核对数据，多个
 
 ## 使用的相关文件
 
-<p><a  href="http://nut.yixuedh.com/vlookup例表.xlsx"><img src="http://nut.yixuedh.com/下载.png"></img><center>点我下载相关文件</center></a></p>
+<p><a  href="http://nut.jingzhidh.com/vlookup例表.xlsx"><img src="http://nut.jingzhidh.com/下载.png"></img><center>点我下载相关文件</center></a></p>
 

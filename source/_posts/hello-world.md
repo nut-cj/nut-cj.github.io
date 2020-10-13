@@ -3,11 +3,16 @@ title: Hello World
 notshow: false
 copyright: false
 date: 2019-10-13 20:09:00
-categories:-start
+categories:
+- start
 tags:
 ---
 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+
+
+
+[中文站](https://hexocn.cn/docscn/commands.html#%E5%B8%B8%E7%94%A8)
 
 ## Quick Start
 
