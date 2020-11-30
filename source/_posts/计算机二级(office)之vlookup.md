@@ -41,5 +41,5 @@ vlookup 在工作中都有广泛应用，例如可以用来核对数据，多个
 
 ## 使用的相关文件
 
-<p><a  href="http://nut.jingzhidh.com/vlookup例表.xlsx"><img src="http://nut.jingzhidh.com/下载.png"></img><center>点我下载相关文件</center></a></p>
+<p><a  href="http://nut.jingzhidh.com/vlookup例表.xlsx"><img src="https://s3.ax1x.com/2020/11/30/D2pF29.png"></img><center>点我下载相关文件</center></a></p>
 
